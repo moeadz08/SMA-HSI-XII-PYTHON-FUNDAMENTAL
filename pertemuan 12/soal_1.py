@@ -23,7 +23,7 @@ with open(nama_file, 'a') as file:  # pakai nama_file, bukan user
         file.write(user + "\n")  # tulis setiap input ke file
         print("Berhasil menambahkan item baru.")
 
-print(f"File '{nama_file}' telah ditutup.")
+print(f"File '{nama_file}' telah diubka.")
 
 
 

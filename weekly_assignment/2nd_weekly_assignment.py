@@ -5,7 +5,7 @@ while n <= 7:
     print(f'angka: {n}')
     n += 1
 else:
-    print("stop")
+    print("stop"))
 '''
 
 
